@@ -1,0 +1,16 @@
+https://docs.python.org/3.9/library/venv.html#module-venv
+
+$ python -m venv env #создать окружение с именем env
+
+
+/d/python
+$ source djng_venv/Scripts/activate
+
+deactivate
+
+
+
+
+
+bash/zsh $ source <venv>/bin/activate
+cmd.exe C:\> <venv>\Scripts\activate.bat
