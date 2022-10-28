@@ -1,0 +1,9 @@
+git init #инициализация гита в основной папке проекта
+git clone 'ссылка на репозиторий' #скачать с репоз
+git status #просмотреть статус
+git add . #подготовить все новые файлы к коммиту
+git commit -m 'commit name' #сделать коммит без сообщения
+git push origin master #загрузить коммит на сервер или git push -u origin main
+
+git branch -M main #сменить ветку на main
+git remote add origin https://github.com/pachvo/Nick32.git #указать путь к репоз

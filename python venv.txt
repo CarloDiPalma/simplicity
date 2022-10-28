@@ -1,10 +1,14 @@
 https://docs.python.org/3.9/library/venv.html#module-venv
 
-$ python -m venv env #создать окружение с именем env
+$    python -m venv env #создать окружение с именем env
 
 
 /d/python
+$    source djng_venv/Scripts/activate
+
+ping0@DESKTOP-CPC5MMS MINGW64 /d/python/jimmy32
 $ source djng_venv/Scripts/activate
+
 
 deactivate
 
@@ -14,3 +18,7 @@ deactivate
 
 bash/zsh $ source <venv>/bin/activate
 cmd.exe C:\> <venv>\Scripts\activate.bat
+
+
+
+D:\PYTHON> nick32\venv\Scripts\activate   (активация из cmd)

@@ -1,0 +1,2 @@
+requirements.txt for git:
+https://qna.habr.com/q/282147
