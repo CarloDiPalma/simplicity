@@ -7,3 +7,7 @@ git push origin master #загрузить коммит на сервер или
 
 git branch -M main #сменить ветку на main
 git remote add origin https://github.com/pachvo/Nick32.git #указать путь к репоз
+git checkout 3b67ca0868f8a03942223b352c9ac93e0138fa78 #откат к коммиту https://ru.stackoverflow.com/questions/431520/Как-вернуться-откатиться-к-более-раннему-коммиту
+
+
+Что такое Head detached
