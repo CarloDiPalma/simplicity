@@ -3,5 +3,6 @@
 - Создать новую ветку в Git
 - Вернуться к прошлой версии ветки
 - List (dict, etc) comprehension
-- Изучать PyCharm
-- Где посмотреть коммиты?
+- PyCharm
+- Json
+

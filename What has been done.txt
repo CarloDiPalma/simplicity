@@ -1,2 +1,2 @@
-requirements.txt for git:
-https://qna.habr.com/q/282147
+- Создать новую ветку в Git
+- Вернуться к прошлой версии ветки
