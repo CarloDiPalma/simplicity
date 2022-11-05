@@ -6,3 +6,5 @@ python manage.py migrate
 python manage.py createsuperuser
 pavel
 1234
+
+{% comment %}{% endcomment %}

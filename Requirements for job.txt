@@ -1,0 +1,8 @@
+БД Postgres, MongoDB
+gitlab CI/CD
+микросервисной архитектуры, опыт работы с NoSQL бд(elasticsearch, mongodb), golang, grpc, unix
+fastapi
+Redis
+брокер сообщений (RabbitMQ/Kafka)
+JSON
+OpenCV
