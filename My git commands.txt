@@ -15,3 +15,5 @@ git checkout 3b67ca0868f8a03942223b352c9ac93e0138fa78 #откат к комми�
 
 requirements.txt for git:
 https://qna.habr.com/q/282147
+
+При создании репо сначала делать pull сразу после git init

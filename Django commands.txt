@@ -8,3 +8,8 @@ pavel
 1234
 
 {% comment %}{% endcomment %}
+
+
+Начало проекта:
+django-admin startproject имя_проекта
+python manage.py startapp имя_app
