@@ -6,3 +6,4 @@ Redis
 брокер сообщений (RabbitMQ/Kafka)
 JSON
 OpenCV
+библиотеки asyncio, aiohttp
