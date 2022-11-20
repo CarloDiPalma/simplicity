@@ -17,3 +17,5 @@
 - Юнит тесты
 - logger
 - Проверить, что будет если удалить все миграции и бд
+- get_absolute_url
+- CBW(class based view)
