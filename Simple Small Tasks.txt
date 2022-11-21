@@ -6,4 +6,5 @@
 - PyCharm
 - Json
 - ... real world application example github
+- Запустить новый React проект в Pycharm c виртуальным окружением
 
