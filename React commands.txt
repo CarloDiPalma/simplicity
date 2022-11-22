@@ -1,0 +1,6 @@
+npx create-react-app *name*
+
+npm install -g json-server
+
+json-server --watch db.json
+npm run server
