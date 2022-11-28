@@ -2,7 +2,7 @@ npx create-react-app *name*
 
 npm install -g json-server
 
-json-server --watch db.json
+json-server --watch db.json - создание бд
 npm run server
 
 npm run build
