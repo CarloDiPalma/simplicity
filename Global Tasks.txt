@@ -1,10 +1,8 @@
 - Каждый день писать проект на Django
 - Одна задача на Stepik.org
-- Создать новую ветку в Git
-- Вернуться к прошлой версии ветки
+- Сокеты
 - List (dict, etc) comprehension
-- PyCharm
-- Json
+
 - ... real world application example github
 - Запустить новый React проект в Pycharm c виртуальным окружением
 
