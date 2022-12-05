@@ -7,3 +7,6 @@ hackerrank, leetcode
 
 Паттерны проектирования, процессы разработки, инструменты сборки
 ide, hotkeys,
+
+https://practicum.yandex.ru/algorithms-interview/
+https://www.youtube.com/playlist?list=PLA0M1Bcd0w8x4jEp1r_aN3xlnlbfx9RQ2
