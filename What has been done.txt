@@ -2,3 +2,4 @@
 - Вернуться к прошлой версии ветки
 - Попробовать Django тесты
 - Попробовать Django сигналы
+- Генератор паролей с input range и toggle button (https://habr.com/ru/company/otus/blog/557006/)
