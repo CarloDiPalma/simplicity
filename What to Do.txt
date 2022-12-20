@@ -1,1 +1,3 @@
 https://dbeaver.io
+Переименовать гитхаб акк(Карло Ди Пальма)
+from typing import ClassVar ClassVar[str]

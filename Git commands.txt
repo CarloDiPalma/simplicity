@@ -10,6 +10,13 @@ git checkout -b имя_ветки #создать ветку имя_ветки. 
 git remote add origin https://github.com/pachvo/Nick32.git #указать путь к репоз
 git checkout 3b67ca0868f8a03942223b352c9ac93e0138fa78 #откат к коммиту https://ru.stackoverflow.com/questions/431520/Как-вернуться-откатиться-к-более-раннему-коммиту
 git pull https://github.com/pachvo/to_do.git
+git rm --cached <file> - перевести файл в состояние «неотслеживаемый» (untracked)
+git rm -r --cached bin/ - если надо перевести в состояние неотслеживаемый папку
+git commit --amend -m "Текст вашего комментария" - добавит изменённые файлы в последний сделанный коммит, а с дополнительным флагом -m ещё и обновит комментарий
+git reset --soft HEAD~1    git reset HEAD <file>     git rm --cached <file> -удалить файл из коммита (https://devconnected.com/how-to-remove-files-from-git-commit/)
+git reset первые_7_символов_айди_коммита -возврат к состоянию коммита
+git log -получить информацию о коммитах проекта
+git show id_коммита(первые 7 цифр айди коммита) -Просмотреть изменения, внесённые в определённом коммите. Без айди - инфо о последнем коммите
 
 Что такое Head detached
 
