@@ -1,8 +1,7 @@
+1. English words session
+2. Type the code
+3. Formulate new tasks
+4. Анализировать и реформировать план изучения программированию
 - Каждый день писать проект на Django
 - Одна задача на Stepik.org
-- Сокеты
-- List (dict, etc) comprehension
-
-- ... real world application example github
-- Запустить новый React проект в Pycharm c виртуальным окружением
 

@@ -1,6 +1,7 @@
-1. English words session
-2. Type the code
-3. Formulate new tasks
-4. Анализировать и реформировать план изучения программированию
+Сокеты
+- List (dict, etc) comprehension
+
+- ... real world application example github
+
 5. Регулярные выражения
 6. Транзакции
