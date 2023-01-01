@@ -1,3 +1,2 @@
+Поставить маленькие, но простые задачи в проекте django_decks чтобы сдвинуться с мертвой точки.
 https://dbeaver.io
-Переименовать гитхаб акк(Карло Ди Пальма)
-from typing import ClassVar ClassVar[str]

@@ -1,7 +1,5 @@
-Сокеты
+- Сокеты
 - List (dict, etc) comprehension
-
 - ... real world application example github
-
-5. Регулярные выражения
-6. Транзакции
+- Регулярные выражения
+- Транзакции
