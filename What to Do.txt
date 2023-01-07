@@ -1,2 +1,3 @@
 Поставить маленькие, но простые задачи в проекте django_decks чтобы сдвинуться с мертвой точки.
+Попробовать lazyload initial state чтобы пофиксить проблему с count в Django_Decks
 https://dbeaver.io
